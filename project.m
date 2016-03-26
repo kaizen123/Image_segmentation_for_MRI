@@ -1,10 +1,6 @@
 %Start script-------------------------------------------------------------
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%Studente: Daniele Castrovilli
-%%Matricola: VR386161
-%%Corso di laurea magistrale: Bioinformatica e biotecnologie mediche
-%%Corso: Bioimmagini AIDV
-%%Analysis of multiple algorithms for segmenting an MRI image(.jpg)
+%%----------
 %%----------
 %%----------
 %%1st algorithm: Simple adaptation of a segmentation algorithm on my image
